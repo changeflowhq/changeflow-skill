@@ -14,7 +14,7 @@ cp SKILL.md .claude/skills/changeflow/
 
 ### skills.sh
 ```bash
-npx skillsadd stevebutterworth/changeflow-skill
+npx skillsadd changeflowhq/changeflow-skill
 ```
 
 ### Setup
@@ -46,7 +46,7 @@ Get your token from [changeflow.com/account/api](https://changeflow.com/account/
 - [Pricing](https://changeflow.com/pricing) - Plans from $99/mo
 - [API Settings](https://changeflow.com/account/api) - Get your token
 - [GovPing](https://govping.org) - Free regulatory intelligence
-- [Changeflow MCP Server](https://github.com/stevebutterworth/changeflow-mcp) - MCP integration
+- [Changeflow MCP Server](https://github.com/changeflowhq/changeflow-mcp) - MCP integration
 
 ## License
 
