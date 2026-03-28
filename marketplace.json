@@ -1,0 +1,21 @@
+{
+  "name": "changeflow-skill",
+  "owner": {
+    "name": "Changeflow",
+    "email": "hello@changeflow.com"
+  },
+  "metadata": {
+    "description": "AI-powered web monitoring and change intelligence. Track any website, get structured change briefings.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "changeflow",
+      "description": "Monitor websites, search changes, create sources, and manage web monitoring. Requires CHANGEFLOW_API_TOKEN.",
+      "source": ".",
+      "skills": [
+        "SKILL.md"
+      ]
+    }
+  ]
+}
