@@ -12,9 +12,10 @@
     {
       "name": "changeflow",
       "description": "Monitor websites, search changes, create sources, and manage web monitoring. Requires CHANGEFLOW_API_TOKEN.",
-      "source": ".",
+      "source": "./",
+      "strict": false,
       "skills": [
-        "SKILL.md"
+        "./skills/changeflow"
       ]
     }
   ]
